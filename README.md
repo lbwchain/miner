@@ -19,6 +19,7 @@ Li7dQa6qEyxamzcNw5beyCjATwYiakDNku
 替换完后保存。  
 其他参数如果你不明白他们的含义，请不要改动他们。  
 ![Image](https://github.com/lbwchain/miner/blob/master/minerlbw684.png)  
+  
 3.开始挖矿  
 双击123.bat 等待约3-5秒钟  
 如果界面有显示Stratum difficulty set to 0.5字样  
