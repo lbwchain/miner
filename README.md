@@ -11,7 +11,8 @@ https://github.com/lbwchain/wallet/raw/master/lbwcoin-qt.rar
 依次打开“文件”---“收款地址”，复制你所看到L开头的地址，可以在桌面新建文本文件，然后把收款地址粘贴进去，保存，以便下一步使用。
 
 例如：LQFXaLsLNmY2tUGHRL3BompBk6hFoRjRwU
-![Image](https://raw.githubusercontent.com/lbwchain/miner/master/minerlbw322.png)
+![Image](https://github.com/lbwchain/miner/blob/master/wallet-1.png)
+![Image](https://github.com/lbwchain/miner/blob/master/wallet-2.png)
 
 
 2.下载挖矿工具miner，适用于WIN7-X64，WIN10-X64等操作系统
