@@ -45,4 +45,4 @@ Li7dQa6qEyxamzcNw5beyCjATwYiakDNku
 或者显示CPU#0 字样，即表示挖矿运行成功
 
 大概在60个块成熟以后，矿池开始自动打款到你的钱包接收地址。（第一步钱包收款地址）
-
+![Image](https://github.com/lbwchain/miner/blob/master/minerlbw815.png)
