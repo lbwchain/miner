@@ -14,9 +14,6 @@ https://github.com/lbwchain/wallet/raw/master/lbwcoin-qt.rar
 ![Image](https://raw.githubusercontent.com/lbwchain/miner/master/minerlbw322.png)
 
 
-
-
-
 2.下载挖矿工具miner，适用于WIN7-X64，WIN10-X64等操作系统
 
 https://github.com/lbwchain/miner/raw/master/miner.rar
@@ -36,9 +33,7 @@ Li7dQa6qEyxamzcNw5beyCjATwYiakDNku
 替换完后保存。
 
 其他参数如果你不明白他们的含义，请不要改动他们。
-
-
-
+![Image](https://github.com/lbwchain/miner/blob/master/minerlbw684.png)
 
 
 3.开始挖矿
