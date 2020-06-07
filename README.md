@@ -7,6 +7,7 @@ https://github.com/lbwchain/wallet/raw/master/lbwcoin-qt.rar
 例如：LQFXaLsLNmY2tUGHRL3BompBk6hFoRjRwU  
 ![Image](https://github.com/lbwchain/miner/blob/master/wallet-1.png)
 ![Image](https://github.com/lbwchain/miner/blob/master/wallet-2.png)  
+  
 2.下载挖矿工具miner，适用于WIN7-X64，WIN10-X64等操作系统  
 https://github.com/lbwchain/miner/raw/master/miner.rar  
 如果你在自己电脑上挖矿，请关闭杀毒软件或者安全软件，目前所有主流杀毒软件都会将挖矿程序定义为“挖矿病毒”。或者加入信任白名单。  
