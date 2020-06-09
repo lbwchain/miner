@@ -1,4 +1,3 @@
-LBWCOIN新手电脑挖矿教程  
 LBWCOIN项目官网：www.lbw.one  
 LBWCOIN白皮书：https://github.com/lbwchain/White-Paper/  
 LBWCOIN区块浏览器：http://explorer.lbw.one  
@@ -6,6 +5,8 @@ LBWCOIN第三方矿池：http://pool.lbwchain.xyz
 LBWCOIN云挖矿教程：https://github.com/lbwchain/Cloud-Mining/  
 LBWCOIN电脑挖矿教程：https://github.com/lbwchain/miner
   
+  
+LBWCOIN新手电脑挖矿教程  
 1.下载LBWCOIN-QT钱包  
 https://github.com/lbwchain/wallet/raw/master/lbwcoin-qt.rar  
 选中下载后得到的压缩文件，点击右键解压到lbwcoin-qt\  
