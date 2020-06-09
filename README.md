@@ -34,3 +34,7 @@ Li7dQa6qEyxamzcNw5beyCjATwYiakDNku
 或者显示CPU#0 字样，即表示挖矿运行成功  
 大概在60个块成熟以后，矿池开始自动打款到你的钱包接收地址。（第一步钱包收款地址）  
 ![Image](https://github.com/lbwchain/miner/blob/master/miner_status.png)  
+
+###
+由于有大的算力进入，使用电脑挖掘LBWCOIN，可能在矿池界面无法找到你的矿工
+请不要担心，通常由于难度变大你的算力太小显示被忽略，只要你的算力有效，矿池会按照你贡献的实际份额支付LBW
