@@ -3,7 +3,7 @@ LBWCOIN项目官网：www.lbw.one
 LBWCOIN白皮书：https://github.com/lbwchain/White-Paper/  
 LBWCOIN区块浏览器：http://explorer.lbw.one  
 LBWCOIN第三方矿池：http://pool.lbwchain.xyz  
-LBWCOIN云挖矿教程：https://github.com/lbwchain/Cloud-Mining/
+LBWCOIN云挖矿教程：https://github.com/lbwchain/Cloud-Mining/  
 LBWCOIN电脑挖矿教程：https://github.com/lbwchain/miner
   
 1.下载LBWCOIN-QT钱包  
